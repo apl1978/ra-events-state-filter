@@ -1,0 +1,34 @@
+.App {
+  width: 70%;
+  margin: 0 auto;
+  padding: 50px 10px;
+}
+
+.toolbar {
+  padding: 10px 0;
+}
+
+.btn {
+  margin-right: 5px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.project-list {
+  width: 100%;
+  columns: 3;
+  column-gap: 5px;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 5px;
+}
+
+.done {
+  background-color: gray;
+}
